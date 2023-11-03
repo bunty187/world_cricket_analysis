@@ -8,6 +8,8 @@ Moreover, the project goes beyond analysis by incorporating deployment on AWS EC
 
 With its robust functionality, intuitive interface, and deployment on a reliable cloud platform, the World Cricket Analysis Project stands out as an exceptional solution for cricket enthusiasts and professionals seeking comprehensive insights and analysis in the world of cricket.
 
+Websit Link: http://13.232.203.229:8501/
+
 
 #### Step 1: Data Cleaning During the data cleaning phase, we remove any irrelevant or noisy data, handle missing values, and fix any inconsistencies in the dataset. This process ensures the data is reliable and ready for analysis.
 
@@ -20,5 +22,3 @@ With its robust functionality, intuitive interface, and deployment on a reliable
 #### Step 5: Visualization of Men and Women Dataset Using the Streamlit app and Plotly for visualization, we create interactive visualizations to explore and analyze the dataset based on gender and Fomat of Cricket. This includes creating visual representations such as bar charts, scatter plots, pie charts, or any other appropriate visualization method to depict patterns, trends, or distributions within the data.
 
 #### Step 6: Deploying on EC2 Instances To make the project accessible over the internet, we deploy it on Amazon EC2 instances. We set up the necessary server infrastructure, configure the environment, and deploy the project, ensuring that it is running securely and efficiently.
-
-### Website Link: http://13.232.203.229:8501/
